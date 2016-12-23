@@ -4,9 +4,9 @@
 }
 
 html {
-  background-image: url("http://www.cray.com/blog/wp-content/uploads/2015/09/Weather-Blog-Image.jpg");
-  background-size:cover;
-  background-repeat:no-repeat;
+  background-image:url("http://www.cray.com/blog/wp-content/uploads/2015/09/Weather-Blog-Image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 form {
-  margin-top:100px;
+  margin-top:20px;
 }
 input {
   margin-left:auto;
