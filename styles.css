@@ -3,12 +3,18 @@
   margin:0px;
 }
 
+html {
+  background-image: url("http://www.cray.com/blog/wp-content/uploads/2015/09/Weather-Blog-Image.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
 body {
   text-align: center;
 }
 
 form {
-  margin-top:20px;
+  margin-top:100px;
 }
 input {
   margin-left:auto;
